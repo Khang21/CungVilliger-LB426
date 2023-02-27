@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M426_Roulette/1.0.0": {
+        "runtime": {
+          "M426_Roulette.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M426_Roulette/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

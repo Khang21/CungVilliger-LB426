@@ -1,0 +1,14 @@
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\bin\Debug\netcoreapp3.1\M426_Roulette.exe
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\bin\Debug\netcoreapp3.1\M426_Roulette.deps.json
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\bin\Debug\netcoreapp3.1\M426_Roulette.runtimeconfig.json
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\bin\Debug\netcoreapp3.1\M426_Roulette.runtimeconfig.dev.json
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\bin\Debug\netcoreapp3.1\M426_Roulette.dll
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\bin\Debug\netcoreapp3.1\M426_Roulette.pdb
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.csproj.AssemblyReference.cache
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.AssemblyInfoInputs.cache
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.AssemblyInfo.cs
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.csproj.CoreCompileInputs.cache
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.dll
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.pdb
+C:\Users\Eleasar\source\repos\M426_Roulette\M426_Roulette\obj\Debug\netcoreapp3.1\M426_Roulette.genruntimeconfig.cache
